@@ -8,6 +8,17 @@ import time,random,sys,json,codecs,threading,glob,sys
 import re,string,os
 import os.path,sys,urllib,shutil,subprocess
 
+cl = LINETCR.LINE()
+cl.login(token="Envrznf91EwtffOXomA6.dXFh0RGhGJTraVc/Ga3gLG.ncGsyYRMK4xTAIoJLbc6dkTuEe54ROfuGqHGwfRC+o0=")
+cl.loginResult()
+
+ki = LINETCR.LINE()
+ki.login(token="EnEYdLZEP4MAjOvrjGp5.etJBEwCSvh2QalFl1LivLq.VUoJzw2cmqM1rRC+4Yh+yOaD5jtm8az4EahVdKIENic=")
+ki.loginResult()
+
+kk = LINETCR.LINE()
+kk.login(token="EnkUuL8GGwhVNkrle3l5.G3W1IE2kqsON5/XElN9ufq.+zyzEtf9eCnYNHBaTTDVNJeHAUl2g6zShdB6RACpuhw=")
+kk.loginResult()
 
 print "login success"
 reload(sys)

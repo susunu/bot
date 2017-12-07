@@ -9,7 +9,7 @@ import re,string,os
 import os.path,sys,urllib,shutil,subprocess
 
 cl = LINETCR.LINE()
-cl.login(token=" En79eEhKuKeZypjQY98c.ggZ3LaX96pDQplX2qf9Fxa.I86DGaTphzpe8cmdnioa0dRB1xEjG3yAHj3TQx2ThmI= ")
+cl.login(qr=True)
 cl.loginResult()
 
 ki = LINETCR.LINE()
@@ -103,9 +103,11 @@ helpMessage ="""🇹🇭〖ŋีಖଏדЮ✫নმ௮₷ণજัゆ۩〗🇹�
       🐧  แฮ็กเก้อ  🐧
 🍎[Hack2-4]+"แฮ็กเก้อ"
           	   		    	  	  
-	  ─•✵꧁☢☠ℓℓஆՁՃิ☠☡꧂✵•─ 
-	  🇹🇭 🇹🇭 🇹🇭 🇹🇭 🇹🇭 🇹🇭 🇹🇭 🇹🇭
-	http://line.me/ti/p/j2nADgDkJf
+	       ωู้ʊั₪Ծণറণ১😎ъਙЊъনਹਙ์
+
+            🇹🇭〖✟ŋีಖଏדЮ۞নმ௮✫₷ণજัゆ۩〗🇹🇭
+           ➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+	   http://line.me/ti/p/_SnII2cQTs  
 """
 helpMessage2 ="""-💕™ -
 
@@ -165,9 +167,10 @@ wait = {
     'leaveRoom':False,
     'timeline':False,
     'autoAdd':False,
-    'message':"    ─•✵꧁☢☠ℓℓஆՁՃิ☠☡꧂✵•─  🐧🐧🐧🐧🐧🐧🐧 รับติดตั้ง Selfbot  http://line.me/ti/p/j2nADgDkJf  ",
+    "lang":"JP",  
+    'message':"   ωู้ʊั₪Ծণറণ১😎ъਙЊъনਹਙ์  🐧🐧🐧🐧🐧🐧🐧 รับติดตั้ง Selfbot  http://line.me/ti/p/_SnII2cQTs   ",
     "lang":"JP",
-    "comment":"    ─•✵꧁☢☠ℓℓஆՁՃิ☠☡꧂✵•─  🐧🐧🐧🐧🐧🐧🐧 รับติดตั้ง Selfbot  http://line.me/ti/p/j2nADgDkJf ",
+    "comment":"    ωู้ʊั₪Ծণറণ১😎ъਙЊъনਹਙ์ 🐧🐧🐧🐧🐧🐧🐧 รับติดตั้ง Selfbot http://line.me/ti/p/_SnII2cQTs ",
     "likeOn":False,
     "commentOn":False,
     "commentBlack":{},

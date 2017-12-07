@@ -31,7 +31,7 @@ kc.login(token="EnHCp1ieuyaTzcu8rWO5.dwyp7tsUoLnLR/rlCB3J5q.SxwnMBKbOT6lino8X1K5
 kc.loginResult()
 
 ka = LINETCR.LINE()
-ka.login(token='EnvO5ZVg4sWtqbTIloR9.L0CN4ReK3/p1QbUxYCxXMq.JVEWbVEbeVgDBlP1yHrevN9bT1Kh+k+KNowZLWqDHW4=")
+ka.login(token="EnvO5ZVg4sWtqbTIloR9.L0CN4ReK3/p1QbUxYCxXMq.JVEWbVEbeVgDBlP1yHrevN9bT1Kh+k+KNowZLWqDHW4=")
 ka.loginResult()
 print "login success"
 reload(sys)

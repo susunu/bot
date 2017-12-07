@@ -1507,8 +1507,7 @@ def bot(op):
                         targets.append(x["M"])
                     for target in targets:
                         try:
-                            cl.kickoutFromGroup(msg.to,[target])
-			    time.sleep(0.00)
+                            cl.kickoutFromGroup(msg.to,[target])			   
                         except:
                             cl.kickoutFromGroup(msg.to,[target])
 			    time.sleep(0.00)
